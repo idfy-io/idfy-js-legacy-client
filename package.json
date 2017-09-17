@@ -1,0 +1,22 @@
+{
+  "name": "@idfy/legacy",
+  "version": "0.0.4",
+  "description": "TypeScript client library for our legacy sign API (https://api.signere.no) for use with nodejs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TypeScript client library for our legacy sign API (https://api.signere.no) for use with nodejs"
+  },
+  "author": "Idfy Norge AS",
+  "dependencies": {
+    "axios": "0.16.2"
+  },
+  "devDependencies": {
+    "@types/axios": "0.14.0",
+    "@types/node": "^8.0.28"
+  }
+}
